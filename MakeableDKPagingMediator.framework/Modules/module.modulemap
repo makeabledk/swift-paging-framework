@@ -1,3 +1,10 @@
 framework module MakeableDKPagingMediator {
+  umbrella header "MakeableDKPagingMediator.h"
+
+  export *
+  module * { export * }
+}
+
+module MakeableDKPagingMediator.Swift {
     header "MakeableDKPagingMediator-Swift.h"
 }

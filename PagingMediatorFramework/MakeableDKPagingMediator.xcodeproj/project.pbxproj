@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C693F4971F0A5E8A00A4F821 /* PagingMediatorFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = C693F4951F0A5E8A00A4F821 /* PagingMediatorFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C693F49E1F0A5EA100A4F821 /* PagingMediatorFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = C693F49D1F0A5EA100A4F821 /* PagingMediatorFramework.swift */; };
+		C693F4971F0A5E8A00A4F821 /* MakeableDKPagingMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = C693F4951F0A5E8A00A4F821 /* MakeableDKPagingMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C693F49E1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C693F49D1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C693F4921F0A5E8A00A4F821 /* MakeableDKPagingMediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MakeableDKPagingMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C693F4951F0A5E8A00A4F821 /* PagingMediatorFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PagingMediatorFramework.h; sourceTree = "<group>"; };
+		C693F4951F0A5E8A00A4F821 /* MakeableDKPagingMediator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MakeableDKPagingMediator.h; sourceTree = "<group>"; };
 		C693F4961F0A5E8A00A4F821 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C693F49D1F0A5EA100A4F821 /* PagingMediatorFramework.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PagingMediatorFramework.swift; sourceTree = "<group>"; };
+		C693F49D1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeableDKPagingMediator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,7 +32,7 @@
 		C693F4881F0A5E8A00A4F821 = {
 			isa = PBXGroup;
 			children = (
-				C693F4941F0A5E8A00A4F821 /* PagingMediatorFramework */,
+				C693F4941F0A5E8A00A4F821 /* MakeableDKPagingMediator */,
 				C693F4931F0A5E8A00A4F821 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,13 +45,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C693F4941F0A5E8A00A4F821 /* PagingMediatorFramework */ = {
+		C693F4941F0A5E8A00A4F821 /* MakeableDKPagingMediator */ = {
 			isa = PBXGroup;
 			children = (
-				C693F4951F0A5E8A00A4F821 /* PagingMediatorFramework.h */,
+				C693F4951F0A5E8A00A4F821 /* MakeableDKPagingMediator.h */,
 				C693F4961F0A5E8A00A4F821 /* Info.plist */,
-				C693F49D1F0A5EA100A4F821 /* PagingMediatorFramework.swift */,
+				C693F49D1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift */,
 			);
+			name = MakeableDKPagingMediator;
 			path = PagingMediatorFramework;
 			sourceTree = "<group>";
 		};
@@ -62,7 +63,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C693F4971F0A5E8A00A4F821 /* PagingMediatorFramework.h in Headers */,
+				C693F4971F0A5E8A00A4F821 /* MakeableDKPagingMediator.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -104,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C693F48C1F0A5E8A00A4F821 /* Build configuration list for PBXProject "PagingMediatorFramework" */;
+			buildConfigurationList = C693F48C1F0A5E8A00A4F821 /* Build configuration list for PBXProject "MakeableDKPagingMediator" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -136,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C693F49E1F0A5EA100A4F821 /* PagingMediatorFramework.swift in Sources */,
+				C693F49E1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,7 +291,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C693F48C1F0A5E8A00A4F821 /* Build configuration list for PBXProject "PagingMediatorFramework" */ = {
+		C693F48C1F0A5E8A00A4F821 /* Build configuration list for PBXProject "MakeableDKPagingMediator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C693F4981F0A5E8A00A4F821 /* Debug */,
