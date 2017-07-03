@@ -1,0 +1,10 @@
+framework module PagingMediatorFramework {
+  umbrella header "PagingMediatorFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module PagingMediatorFramework.Swift {
+    header "PagingMediatorFramework-Swift.h"
+}
