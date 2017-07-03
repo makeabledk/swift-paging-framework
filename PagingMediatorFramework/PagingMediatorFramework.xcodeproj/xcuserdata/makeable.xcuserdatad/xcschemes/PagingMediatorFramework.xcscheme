@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C693F4911F0A5E8A00A4F821"
-               BuildableName = "PagingMediatorFramework.framework"
-               BlueprintName = "PagingMediatorFramework"
+               BuildableName = "MakeableDKPagingMediator.framework"
+               BlueprintName = "MakeableDKPagingMediator"
                ReferencedContainer = "container:PagingMediatorFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C693F4911F0A5E8A00A4F821"
-            BuildableName = "PagingMediatorFramework.framework"
-            BlueprintName = "PagingMediatorFramework"
+            BuildableName = "MakeableDKPagingMediator.framework"
+            BlueprintName = "MakeableDKPagingMediator"
             ReferencedContainer = "container:PagingMediatorFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C693F4911F0A5E8A00A4F821"
-            BuildableName = "PagingMediatorFramework.framework"
-            BlueprintName = "PagingMediatorFramework"
+            BuildableName = "MakeableDKPagingMediator.framework"
+            BlueprintName = "MakeableDKPagingMediator"
             ReferencedContainer = "container:PagingMediatorFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

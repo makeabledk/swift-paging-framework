@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C693F4921F0A5E8A00A4F821 /* PagingMediatorFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PagingMediatorFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C693F4921F0A5E8A00A4F821 /* MakeableDKPagingMediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MakeableDKPagingMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C693F4951F0A5E8A00A4F821 /* PagingMediatorFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PagingMediatorFramework.h; sourceTree = "<group>"; };
 		C693F4961F0A5E8A00A4F821 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C693F49D1F0A5EA100A4F821 /* PagingMediatorFramework.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PagingMediatorFramework.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		C693F4931F0A5E8A00A4F821 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C693F4921F0A5E8A00A4F821 /* PagingMediatorFramework.framework */,
+				C693F4921F0A5E8A00A4F821 /* MakeableDKPagingMediator.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -69,9 +69,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		C693F4911F0A5E8A00A4F821 /* PagingMediatorFramework */ = {
+		C693F4911F0A5E8A00A4F821 /* MakeableDKPagingMediator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C693F49A1F0A5E8A00A4F821 /* Build configuration list for PBXNativeTarget "PagingMediatorFramework" */;
+			buildConfigurationList = C693F49A1F0A5E8A00A4F821 /* Build configuration list for PBXNativeTarget "MakeableDKPagingMediator" */;
 			buildPhases = (
 				C693F48D1F0A5E8A00A4F821 /* Sources */,
 				C693F48E1F0A5E8A00A4F821 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = PagingMediatorFramework;
+			name = MakeableDKPagingMediator;
 			productName = PagingMediatorFramework;
-			productReference = C693F4921F0A5E8A00A4F821 /* PagingMediatorFramework.framework */;
+			productReference = C693F4921F0A5E8A00A4F821 /* MakeableDKPagingMediator.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C693F4911F0A5E8A00A4F821 /* PagingMediatorFramework */,
+				C693F4911F0A5E8A00A4F821 /* MakeableDKPagingMediator */,
 			);
 		};
 /* End PBXProject section */
@@ -299,7 +299,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C693F49A1F0A5E8A00A4F821 /* Build configuration list for PBXNativeTarget "PagingMediatorFramework" */ = {
+		C693F49A1F0A5E8A00A4F821 /* Build configuration list for PBXNativeTarget "MakeableDKPagingMediator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C693F49B1F0A5E8A00A4F821 /* Debug */,
