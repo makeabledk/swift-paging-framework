@@ -9,6 +9,10 @@
 /* Begin PBXBuildFile section */
 		C693F4971F0A5E8A00A4F821 /* MakeableDKPagingMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = C693F4951F0A5E8A00A4F821 /* MakeableDKPagingMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C693F49E1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C693F49D1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift */; };
+		C693F4C21F0A7AFB00A4F821 /* NetworkCallExample.png in Resources */ = {isa = PBXBuildFile; fileRef = C693F4BE1F0A7AFB00A4F821 /* NetworkCallExample.png */; };
+		C693F4C31F0A7AFB00A4F821 /* PagingMediatorExample.png in Resources */ = {isa = PBXBuildFile; fileRef = C693F4BF1F0A7AFB00A4F821 /* PagingMediatorExample.png */; };
+		C693F4C41F0A7AFB00A4F821 /* cellForRowAtExample.png in Resources */ = {isa = PBXBuildFile; fileRef = C693F4C01F0A7AFB00A4F821 /* cellForRowAtExample.png */; };
+		C693F4C51F0A7AFB00A4F821 /* searchExample.png in Resources */ = {isa = PBXBuildFile; fileRef = C693F4C11F0A7AFB00A4F821 /* searchExample.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +20,10 @@
 		C693F4951F0A5E8A00A4F821 /* MakeableDKPagingMediator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MakeableDKPagingMediator.h; sourceTree = "<group>"; };
 		C693F4961F0A5E8A00A4F821 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C693F49D1F0A5EA100A4F821 /* MakeableDKPagingMediator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeableDKPagingMediator.swift; sourceTree = "<group>"; };
+		C693F4BE1F0A7AFB00A4F821 /* NetworkCallExample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NetworkCallExample.png; sourceTree = "<group>"; };
+		C693F4BF1F0A7AFB00A4F821 /* PagingMediatorExample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PagingMediatorExample.png; sourceTree = "<group>"; };
+		C693F4C01F0A7AFB00A4F821 /* cellForRowAtExample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cellForRowAtExample.png; sourceTree = "<group>"; };
+		C693F4C11F0A7AFB00A4F821 /* searchExample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = searchExample.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +40,7 @@
 		C693F4881F0A5E8A00A4F821 = {
 			isa = PBXGroup;
 			children = (
+				C693F4BD1F0A7AE700A4F821 /* Images */,
 				C693F4941F0A5E8A00A4F821 /* MakeableDKPagingMediator */,
 				C693F4931F0A5E8A00A4F821 /* Products */,
 			);
@@ -54,6 +63,17 @@
 			);
 			name = MakeableDKPagingMediator;
 			path = PagingMediatorFramework;
+			sourceTree = "<group>";
+		};
+		C693F4BD1F0A7AE700A4F821 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				C693F4BE1F0A7AFB00A4F821 /* NetworkCallExample.png */,
+				C693F4BF1F0A7AFB00A4F821 /* PagingMediatorExample.png */,
+				C693F4C01F0A7AFB00A4F821 /* cellForRowAtExample.png */,
+				C693F4C11F0A7AFB00A4F821 /* searchExample.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +147,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C693F4C41F0A7AFB00A4F821 /* cellForRowAtExample.png in Resources */,
+				C693F4C31F0A7AFB00A4F821 /* PagingMediatorExample.png in Resources */,
+				C693F4C51F0A7AFB00A4F821 /* searchExample.png in Resources */,
+				C693F4C21F0A7AFB00A4F821 /* NetworkCallExample.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
