@@ -1,10 +1,10 @@
-## MakeableDKPagingMediator - Private Repo ##
+# MakeableDKPagingMediator - Private Repo #
 
 *Automatic handling of Paging enabled Network calls for swift.*
 
 This framework enables tableViews showing data that contains thousand of items, to fetch items automatically when scrolling down the tableView.
 
-# Example usage: #
+## Example usage: ##
 
 
 **To use the PagingMediator, start by creating a Network call in the supported form**
