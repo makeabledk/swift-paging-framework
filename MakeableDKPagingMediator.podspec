@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/makeabledk/swift-paging-framework.git", :tag => "v1.0.0" }
+  s.source       = { :git => "https://github.com/makeabledk/swift-paging-framework.git", :tag => "version1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
